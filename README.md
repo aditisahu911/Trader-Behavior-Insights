@@ -15,32 +15,6 @@ Apply simple ML (KMeans) to group accounts by trade performance and activity.
 **Context**
 This assignment was done as part of an application for the Junior Data Scientist – Trader Behavior Insights role at BajARangs/PrimeTrade. The focus was not just on analysis, but on uncovering real, actionable insights — going beyond basic charts into behavioral patterns, lag effects, and market dynamics.
 
-**Project Structure**
-graphql
-Copy
-Edit
-trader-behavior-insights/
-│
-├── notebooks/
-│   └── eda_trader_sentiment_analysis.ipynb     # Full EDA & insight generation
-│
-├── data/
-│   ├── raw_data.csv                            # Original dataset (as provided)
-│   └── cleaned_data.csv                        # Preprocessed and engineered dataset
-│
-├── reports/
-│   ├── summary_report.pdf                      # Executive summary (2-page highlight)
-│   └── visuals/                                # Saved plots (for presentation or sharing)
-│
-├── results/
-│   ├── summary_table.csv                       # Final summary of insights
-│   └── coin_fear_greed_gap.csv                 # Gap in performance under fear/greed
-│
-├── models/
-│   └── clustering_model.pkl                    # KMeans clustering model (optional)
-│
-├── README.md                                   # This file
-└── requirements.txt                            # Python libraries used
 **Tools & Libraries Used**
 Python 3.9+
 
