@@ -1,4 +1,5 @@
 ***Trader Behavior Insights: PnL and Market Sentiment Analysis***
+
 **Overview**
 This project investigates how market sentiment (Fear vs. Greed) influences trader behavior and performance (PnL). By analyzing real trading data across accounts and symbols, the study uncovers meaningful patterns that can guide better trading strategies and risk management.
 
