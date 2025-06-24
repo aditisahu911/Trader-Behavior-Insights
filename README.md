@@ -61,5 +61,5 @@ Optional ML Model – KMeans clustering of accounts
 Aditi Sahu
 M.Tech in GeoInformatics, IIT Kanpur
 [aditisahu24@iitk.ac.in]
-[LinkedIn or GitHub profile link]
+[[LinkedIn or GitHub profile link](https://github.com/aditisahu911)]
 
